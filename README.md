@@ -1,6 +1,6 @@
 # Voxa Workforce
 
-[![CI](https://github.com/Mubarakjk/voxa-workforce/actions/workflows/ci.yml/badge.svg)](https://github.com/Mubarakjk/voxa-workforce/actions/workflows/ci.yml)
+[![CI](https://github.com/mubarak-jimoh/voxa-workforce/actions/workflows/ci.yml/badge.svg)](https://github.com/mubarak-jimoh/voxa-workforce/actions/workflows/ci.yml)
 
 An AI workforce platform for small businesses. You hire a digital employee, give them work in plain English, and inspect exactly what they did.
 
@@ -60,7 +60,7 @@ tests/                   20 test files, 118 tests
 You need Node.js 20.9 or newer. No database or API keys are required.
 
 ```bash
-git clone https://github.com/Mubarakjk/voxa-workforce.git
+git clone https://github.com/mubarak-jimoh/voxa-workforce.git
 cd voxa-workforce
 npm install
 cp .env.example .env.local
